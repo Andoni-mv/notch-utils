@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>NotchUtils</string>
+    <key>CFBundleDisplayName</key>
+    <string>NotchUtils</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.andoni.notchutils</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>NotchUtils</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>NotchUtils necesita controlar Spotify para mostrar la canción que estás escuchando en el notch.</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Uso personal</string>
+</dict>
+</plist>
