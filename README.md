@@ -2,6 +2,10 @@
 
 App agente de macOS que muestra lo que suena en **Spotify** al pasar el ratón por el **notch** del MacBook.
 
+## Demo
+
+[Ver demo](asset/demo.mov)
+
 - Sin icono en el Dock (app agente, `LSUIElement`).
 - Lee Spotify por **AppleScript** (sin API key, sin red salvo la carátula).
 - Refresco en vivo vía la notificación `com.spotify.client.PlaybackStateChanged`.
